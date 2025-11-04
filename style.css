@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background: rgba(9, 15, 29, 1);
+}
+.container{
+    max-width: 1290px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+button{
+    color: white;
+    padding: 14px 40px;
+    font-size: 16px;
+    border: none;
+    background: rgba(214, 239, 14, 1);
+    border-radius: 8px;
+    
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+ul{
+    list-style: none;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+.feruzbek-nav-items{
+    margin-left: -50px;
+
+    ul{
+        
+        display: flex;
+        gap:40px;
+        li{
+            padding: 39px 0;
+    }
+}
+
+
+}
+.feruzbek-nav-button{
+    padding: 39px 0;
+}

@@ -47,3 +47,18 @@ nav{
 .feruzbek-nav-button{
     padding: 39px 0;
 }
+
+.zarnigor{
+    display: flex;
+    gap: 40px;
+    position: relative;
+    top: 40px;
+}
+.kamilova{
+    display: flex;
+    justify-content: space-between;
+}
+p{
+    font-size: 12px;
+    display: inline;
+}

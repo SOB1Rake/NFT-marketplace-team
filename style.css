@@ -47,3 +47,50 @@ nav{
 .feruzbek-nav-button{
     padding: 39px 0;
 }
+.feruzbek-sectionR{
+    margin-left: -400px;
+    #rotate{
+        margin-right: -128px;
+
+        z-index: -1;
+    }
+} 
+.feruzbek-sectionL{
+    
+    p{
+        color: white;
+    }
+    button{
+        position: relative;
+        right: 160px;
+    }
+    input{
+        background: rgba(19, 30, 58, 1);
+width: 516px;
+height: 60px;
+
+border-radius: 8px;
+
+
+
+    }
+    
+}
+.fnip{
+    
+}
+#Pbig{
+    margin-top: 120px;
+font-size: 48px;
+}
+#Psmal{
+    font-style: 16px;
+    margin-top: 20px;
+}
+.yellow{
+    color: yellow;
+}
+.feruzs{
+    display: flex;
+    gap: 200px;
+}
